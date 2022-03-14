@@ -1,3 +1,3 @@
 # Human-centered Explainable AI
 
-![](images/HXAI.png)
+![](image/HXAI.png)
